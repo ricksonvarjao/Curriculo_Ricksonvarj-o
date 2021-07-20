@@ -1,2 +1,4 @@
 # Curriculo_Ricksonvarjao
-01 Projeto Curriculo Rickson Varjão
+Primeiro Projeto em HTML - Curriculo Rickson Varjão - ProgramadorBR - Curso de Desenvolvimento Full Stack
+
+https://curriculo-desafiohtml-ricksonvarjao.netlify.app/
